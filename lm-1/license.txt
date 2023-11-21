@@ -1,0 +1,11 @@
+Model Information:
+* title:	LM-1
+* source:	https://sketchfab.com/3d-models/lm-1-8cfbfb7957304efdad3f723581bb599e
+* author:	Jad_bty (https://sketchfab.com/Jad_bty)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LM-1" (https://sketchfab.com/3d-models/lm-1-8cfbfb7957304efdad3f723581bb599e) by Jad_bty (https://sketchfab.com/Jad_bty) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
