@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Sci-Fi Car
+* source:	https://sketchfab.com/3d-models/futuristic-sci-fi-car-525bb5ad44d34ad1b74aca686ea836a4
+* author:	dylanheyes (https://sketchfab.com/dylanheyes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Sci-Fi Car" (https://sketchfab.com/3d-models/futuristic-sci-fi-car-525bb5ad44d34ad1b74aca686ea836a4) by dylanheyes (https://sketchfab.com/dylanheyes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
