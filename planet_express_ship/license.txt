@@ -1,0 +1,11 @@
+Model Information:
+* title:	Planet Express Ship
+* source:	https://sketchfab.com/3d-models/planet-express-ship-bda1e2f35166445dafc28400e6c0e7b0
+* author:	William Zarek (https://sketchfab.com/bugbilly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Planet Express Ship" (https://sketchfab.com/3d-models/planet-express-ship-bda1e2f35166445dafc28400e6c0e7b0) by William Zarek (https://sketchfab.com/bugbilly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
